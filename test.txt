@@ -1,2 +1,3 @@
-1 коммит - пустой
-2 коммит - новые строчки
+1 commit - None
+2 commit - new line
+3 commit - add new line 
